@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @windsorwindsor2
-- 👀 I’m interested in programming in Python
-- 🌱 I’m currently learning git, virtual environments, and best practices beyond just making basic scripts.
-- 💞️ I’m looking to collaborate on open source projects eventually!
-- 📫 How to reach me windsorwindsor2@protonmail.com
+I'm Scott Windsor. I'm a civil eningeer that codes. 
+Currently working in construction supply and manufacturing. 
+Trying to increase efficiency through programming.
+
+I program mostly in Python, but I have messed around with Rust. 
 
 <!---
 windsorwindsor2/windsorwindsor2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
